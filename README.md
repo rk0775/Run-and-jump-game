@@ -1,6 +1,6 @@
 # Run-and-jump-game
 
-this is very simple game just jump and avoid the rocks if you not jump the out. character jump by click the mouse.
+This is very simple game just jump and avoid the rocks if you not jump then you are out. character jump by click the mouse.
 
 Game demo : 
 
